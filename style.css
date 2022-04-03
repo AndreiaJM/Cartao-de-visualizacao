@@ -11,7 +11,7 @@ body{
 }
 
 #container{
-    width: 80%;
+    width: 76%;
     height: 60%;
     position: absolute;
     left: 50%;
@@ -45,7 +45,7 @@ body{
 #divparagrafo{
     font-family: 'Inter', sans-serif;
     font-size: 13px;
-    width: 70%;
+    width: 80%;
     height: 100px
     
     
@@ -75,15 +75,15 @@ img{
 }
 .alinhartxt h2{
     color: #fff;
-    margin-bottom: 0;
-    font-size: 25px;
+    margin-bottom: 5px;
+    font-size: 22px;
     font-family: 'Inter', sans-serif;
 }
 .alinhartxt p{
     color: hsla(0, 0%, 100%, 0.75);
     margin: 0;
-    font-size: 10px;
-    letter-spacing: 1px;
+    font-size: 11px;
+    letter-spacing: 2px;
     text-transform: uppercase;
     
 }
